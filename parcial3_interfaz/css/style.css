@@ -1,0 +1,20 @@
+.container-form{
+    position: absolute;
+        top: 20%;
+        left: 60%;
+        margin: auto;
+        width: 30%;
+        max-width: 30%;
+}
+
+.container_registro{
+ 
+     position: absolute;
+     top:85%;
+     lef:20%;
+     max-width: 60%;
+     right: 240%;
+     
+
+}
+
